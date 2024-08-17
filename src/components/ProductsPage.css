@@ -1,0 +1,11 @@
+/* Basic styles for ProductsPage */
+.products-page {
+    padding: 2rem;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  

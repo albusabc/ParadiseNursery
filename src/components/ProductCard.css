@@ -1,0 +1,19 @@
+/* Basic styles for ProductCard */
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1rem;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-card button {
+    background: #FFC107;
+    color: black;
+  }
+  
